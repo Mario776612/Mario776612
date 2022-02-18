@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Mario776612 beginner coder
-- 🐱‍💻 Coding in C++ C# Html CSS SQL
+- 🐱‍💻 Coding in C++ C# Html CSS SQL Js
 - 📫 How to reach me Mãriô776#5960 on discord
