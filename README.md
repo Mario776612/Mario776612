@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Mario776612 
-- 🐱‍💻 Coding in C++ C# Html CSS SQL JS 
-- 📫 How to reach me Mãriô776#5960 on discord
+- 🐱‍💻 Coding in C# Html CSS SQL JS Node.js Discord.js Ts Three.js
+- 📫 How to reach me Mario776 on discord
